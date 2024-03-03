@@ -120,3 +120,107 @@ Atribut memberikan informasi tambahan tentang elemen HTML, seperti sifat atau pe
 </html>
 ```
 
+#### **5. Styling**
+```
+<h1 style="color:darkblue">Ini Heading 1</h1>
+<p 
+ style="text-align: left; font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Lorem, ipsum dolor sit amet 
+  consectetur adipisicing elit. Repudiandae,sapiente.
+</p>
+```
+
+#### **6. Tag-Tag HTML Lainnya**
+- **Anchor Tag**
+```
+<a href="https://www.nightlogin.id">
+  Web Night Login
+</a>
+```
+```
+<p>
+  Kunjungi website Night Login
+  <a href="https://www.nightlogin.id">di sini</a>
+  .
+</p>
+```
+- **Image Tag**
+```
+<img 
+  id="gambar1" 
+  class="image" 
+  src="gambar.jpg" 
+  alt="Deskripsi Gambar" 
+/>
+```
+- **Div Tag**
+```
+<div>
+  <p>Ini paragraf 1</p>
+  <p>Ini paragraf 2</p>
+  <p>Ini paragraf 3</p>
+</div>
+<div>
+  <p>Ini paragraf 4</p>
+  <p>Ini paragraf 5</p>
+  <p>Ini paragraf 6</p>
+</div>
+```
+- **Button Tag**
+```
+<button>Klik Di Sini</button>
+```
+- **Input Tag**
+```
+Masukkan nama anda: <input type="text" />
+<br />
+Masukkan password: <input type="password"/>
+<br />
+Masukkan umur anda: <input type="number"/>
+<br />
+Masukkan email anda: <input type="email"/>
+<br />
+<input type="range"/>
+<br />
+<input type="radio"/>
+<br />
+<input type="checkbox"/>
+<br />
+<input type="checkbox"/>
+<br />
+<input type="file"/>
+<br />
+<input type="date"/>
+<br />
+<input type="time"/>
+<br />
+<input type="color"/>
+```
+- **Style Tag**
+```
+<div style="background-color: red; color: white">
+  <p id="p1">Ini paragraf 1</p>
+  <p class="align-center">Ini paragraf 2</p>
+  <p class="align-center">Ini paragraf 3</p>
+</div>
+<div style="background-color: lightblue; color: green">
+  <p class="align-center">Ini paragraf 4</p>
+  <p class="align-center">Ini paragraf 5</p>
+  <p class="align-center">Ini paragraf 6</p>
+</div>
+```
+```
+<style>
+  p {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  #p1 {
+    color: purple;
+  }
+  .align-center {
+    text-align: center;
+  }
+</style>
+```
+#### **7. Sifat Element HTML**
