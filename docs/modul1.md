@@ -133,20 +133,20 @@ Atribut memberikan informasi tambahan tentang elemen HTML, seperti sifat atau pe
 
 #### **6. Tag-Tag HTML Lainnya**
 - **Anchor Tag**
+
 ```
 <a href="https://www.nightlogin.id">
   Web Night Login
 </a>
-```
-
-```
 <p>
   Kunjungi website Night Login
   <a href="https://www.nightlogin.id">di sini</a>
   .
 </p>
 ```
+
 - **Image Tag**
+
 ```
 <img 
   id="gambar1" 
@@ -155,7 +155,9 @@ Atribut memberikan informasi tambahan tentang elemen HTML, seperti sifat atau pe
   alt="Deskripsi Gambar" 
 />
 ```
+
 - **Div Tag**
+
 ```
 <div>
   <p>Ini paragraf 1</p>
@@ -168,10 +170,13 @@ Atribut memberikan informasi tambahan tentang elemen HTML, seperti sifat atau pe
   <p>Ini paragraf 6</p>
 </div>
 ```
+
 - **Button Tag**
+
 ```
 <button>Klik Di Sini</button>
 ```
+
 - **Input Tag**
 
 ```
@@ -199,7 +204,9 @@ Masukkan email anda: <input type="email"/>
 <br />
 <input type="color"/>
 ```
+
 - **Style Tag**
+
 ```
 <div style="background-color: red; color: white">
   <p id="p1">Ini paragraf 1</p>
@@ -212,6 +219,7 @@ Masukkan email anda: <input type="email"/>
   <p class="align-center">Ini paragraf 6</p>
 </div>
 ```
+
 ```
 <style>
   p {
@@ -226,7 +234,9 @@ Masukkan email anda: <input type="email"/>
   }
 </style>
 ```
+
 - **List Tag**
+
 ```
 <ul>
   <li>list item 1</li>
@@ -241,6 +251,7 @@ Masukkan email anda: <input type="email"/>
   <li>list item 4</li>
 </ol>
 ```
+
 **[List Lengkap Tag HTML](https://www.w3schools.com/tags/tag_html.asp)**
 
 #### **7. Sifat Element HTML**
