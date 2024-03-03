@@ -17,6 +17,9 @@ Web development biasanya dibagi menjadi tiga komponen utama:
 Ini adalah bagian dari web development yang berfokus pada pengembangan antarmuka pengguna (user interface) yang dapat diakses dan digunakan oleh pengguna melalui browser web.
 Teknologi utama yang digunakan dalam frontend development termasuk **HTML**, **CSS**, dan **JavaScript**, serta kerangka kerja (frameworks) dan pustaka (libraries) seperti **React**, **NextJS**, Angular, dan Vue.js.
 
+<img width="400px" src="https://github.com/Night-Login/Pelatihan-WebDev-KMTETI/assets/87590846/7321e977-df28-452e-b48c-fcca2707a5d7" />
+
+
 #### **2. Backend Development**
 Backend development berfokus pada server, database, dan aplikasi yang berjalan di belakang layar untuk mendukung fungsi dan logika dari situs web atau aplikasi web.
 Teknologi yang sering digunakan dalam backend development termasuk bahasa pemrograman seperti JavaScript, Python, Ruby, dan PHP, serta sistem manajemen database seperti MongoDB, dan PostgreSQL.
