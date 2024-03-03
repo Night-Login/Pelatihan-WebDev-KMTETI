@@ -8,7 +8,7 @@ dibuat oleh [Ahmad Zaki Akmal](https://github.com/ahmadzaki2975)
 
 ## **Daftar Modul**
 
-TBA
+- ### [Modul 1](./modul1.html)
 
 ## **File PPT**
 

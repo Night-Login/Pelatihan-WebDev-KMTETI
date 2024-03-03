@@ -6,6 +6,7 @@ description: Modul 1 Pelatihan WebDev 2 KMTETI 2023/2024.
 
 # **Intro to Web Development**
 [← Kembali](./)
+- [Versi Google Docs](https://docs.google.com/document/d/1wa5O2ZyeqsU9dBnCOjotH5rwXc1apYnosM_5K1dEgCc/edit?usp=sharing)
 
 ### **Apa itu Web Development?**
 Web development adalah proses pembuatan dan pengembangan situs web atau aplikasi web yang dapat diakses melalui internet. Web development mencakup berbagai aspek, mulai dari pengembangan halaman web sederhana yang berisi teks statis hingga pembuatan aplikasi web yang kompleks, layanan web, dan jaringan sosial. 
@@ -223,4 +224,65 @@ Masukkan email anda: <input type="email"/>
   }
 </style>
 ```
+- **List Tag**
+```
+<ul>
+  <li>list item 1</li>
+  <li>list item 2</li>
+  <li>list item 3</li>
+  <li>list item 4</li>
+</ul>
+<ol>
+  <li>list item 1</li>
+  <li>list item 2</li>
+  <li>list item 3</li>
+  <li>list item 4</li>
+</ol>
+```
+**[List Lengkap Tag HTML](https://www.w3schools.com/tags/tag_html.asp)**
+
 #### **7. Sifat Element HTML**
+**a. Block**
+- Elemen dengan sifat block akan selalu memulai pada baris baru dan mengambil seluruh lebar yang tersedia (sepanjang kontainer dari parent).
+- Elemen block menciptakan "blok" yang dapat memiliki margin dan padding di sekelilingnya.
+Contoh elemen block: `<div>`, `<p>`, `<h1>`, `<h2>`, `<ol>`, dan `<ul>`.
+
+**b. Inline**
+- Elemen dengan sifat inline tidak memulai pada baris baru. Sebaliknya, mereka muncul pada baris yang sama dengan elemen sebelumnya, sejauh ruang memungkinkan.
+- Elemen inline hanya mengambil lebar sebanyak konten mereka, tidak seluruh lebar kontainer.
+- Margin dan padding pada elemen inline dapat diterapkan secara horizontal (kiri dan kanan), tetapi tidak secara vertikal (atas dan bawah).
+Contoh elemen inline: `<span>`, `<input>`, `<a>`, `<img>`, `<strong>`, dan `<em>`.
+
+### Pengenalan Git
+Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. 
+Git juga membantu dalam mengerjakan projek dalam kolaborasi secara remote. Beberapa konsep penting dalam git:
+
+**1. Repository**
+
+Sebuah repository adalah directory atau folder tempat proyek berada. Ini bisa berada di komputer lokal atau di server (cloud). Repository Git berisi semua file proyek dan riwayat perubahan.
+
+**2. Commit**
+
+Commit adalah semacam checkpoint untuk suatu perubahan. Ini bebas ditentukan oleh developer, umumnya satu commit untuk satu fitur.
+
+**3. Push**
+
+Push adalah tindakan mengirim commit yang telah dibuat ke repository utama, umumnya yang berada di cloud dan bisa diakses oleh tim.
+
+**4. Pull**
+
+Pull adalah tindakan untuk mengambil commit yang berada di repository utama.
+
+**5. Branch**
+
+Branch atau cabang adalah cara untuk membuat commit yang terpisah dari branch utama (biasanya bernama main atau master).
+
+**6. Konflik**
+
+Konflik terjadi ketika dua commit mengubah baris yang sama dalam file, atau ketika satu pengguna mengedit file dan pengguna lain menghapus file yang sama.
+Konflik harus diselesaikan secara manual oleh pengguna sebelum dapat melanjutkan.
+
+**7. Merge**
+
+Menggabungkan (merge) adalah proses menggabungkan perubahan dari satu cabang ke cabang lain.
+Ini umumnya digunakan untuk menggabungkan perubahan dari cabang fitur kembali ke cabang utama.
