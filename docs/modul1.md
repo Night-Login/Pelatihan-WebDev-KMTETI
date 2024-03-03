@@ -44,7 +44,7 @@ Git adalah suatu sistem version control. Ini digunakan untuk melacak perubahan p
 
 [Link Download](https://git-scm.com/downloads)
 
-#### 2. Tech Stack
+#### **2. Tech Stack**
 **a. HTML**
 
 **b. CSS**
@@ -57,4 +57,66 @@ Git adalah suatu sistem version control. Ini digunakan untuk melacak perubahan p
 
 **f. NextJS**
 
+### **HTML**
+HTML, singkatan dari Hypertext Markup Language, adalah bahasa markup standar yang digunakan untuk membuat dan mendesain halaman web. HTML bukanlah bahasa pemrograman, melainkan cara untuk menyusun dan memformat konten di internet. Berikut beberapa konsep dasar HTML yang penting untuk dipahami:
+
+#### **1. Elemen HTML**
+Elemen dasar dari halaman web, yang terdiri dari tag pembuka, konten, dan tag penutup. Contoh: 
+```
+<p>Ini adalah paragraf.</p>
+```
+- `<p>` adalah tag pembuka
+- `Ini adalah paragraf` adalah kontennya 
+- `</p>` adalah tag penutup.
+
+#### **2. Atribut HTML**
+Atribut memberikan informasi tambahan tentang elemen HTML, seperti sifat atau perilakunya. Atribut ditulis di dalam tag pembuka, contoh: 
+```
+<img
+  id="gambar1"
+  class="image"
+  src="gambar.jpg"
+  alt="Deskripsi Gambar"
+/>
+```
+- `id` adalah atribut yang digunakan untuk identifikasi elemen.
+- `class` adalah atribut yang digunakan untuk memberi kelas pada suatu elemen.
+- `src` adalah atribut yang menunjukkan sumber gambar.
+- `alt` adalah atribut yang memberikan teks alternatif jika gambar tidak dapat ditampilkan.
+
+#### **3. Struktur Dasar HTML**
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+```
+
+#### **4. Komentar HTML**
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Bagian ini tidak tampil di halaman browser -->
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- Bagian ini ditampilkan di halaman browser -->
+    <h1>Hello World!</h1>
+  </body>
+</html>
+```
 
