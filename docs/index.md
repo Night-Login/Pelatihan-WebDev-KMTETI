@@ -10,13 +10,10 @@ dibuat oleh [Ahmad Zaki Akmal](https://github.com/ahmadzaki2975)
 
 - ### [Modul 1](./modul1.html)
 
-## **File PPT**
-
-TBA
-
 ## **Link Rekaman**
 
-TBA
+- ### [Modul 1](https://ugm365.sharepoint.com/:v:/r/sites/PelatihanGenapWebDev2KMTETI/Dokumen%20Berbagi/Pertemuan%201%20-%20Intro%20to%20Web%20Development/Rekaman%20Pertemuan/Rekaman%20Pertemuan%201%20Pelatihan%20Genap%20Web%20Develoment%202%20KMTETI.mp4?csf=1&web=1&e=F4l2KE)
+
 
 ## **Source Code**
 
