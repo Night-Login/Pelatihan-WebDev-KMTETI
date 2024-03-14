@@ -6,7 +6,8 @@ description: Modul 1 Pelatihan WebDev 2 KMTETI 2023/2024.
 
 # **Intro to Web Development**
 [← Kembali](./)
-- [Versi Google Docs](https://docs.google.com/document/d/1wa5O2ZyeqsU9dBnCOjotH5rwXc1apYnosM_5K1dEgCc/edit?usp=sharing)
+
+[Versi Google Docs](https://docs.google.com/document/d/1wa5O2ZyeqsU9dBnCOjotH5rwXc1apYnosM_5K1dEgCc/edit?usp=sharing)
 
 ### **Apa itu Web Development?**
 Web development adalah proses pembuatan dan pengembangan situs web atau aplikasi web yang dapat diakses melalui internet. Web development mencakup berbagai aspek, mulai dari pengembangan halaman web sederhana yang berisi teks statis hingga pembuatan aplikasi web yang kompleks, layanan web, dan jaringan sosial. 
