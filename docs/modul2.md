@@ -25,7 +25,7 @@ Menulis CSS di dalam tag `<style>` di dokumen HTML.
 
 ```
 <style>
-  .p {
+  p {
     color: red;
   }
 </style>
@@ -34,3 +34,28 @@ Menulis CSS di dalam tag `<style>` di dokumen HTML.
 
 #### **3. External CSS**
 Menyimpan CSS di file terpisah dengan ekstensi .css dan menghubungkannya ke HTML menggunakan tag `<link>`.
+
+### **Selector dan Property CSS**
+
+#### **1. Selector**
+- Elemen: Menargetkan elemen HTML berdasarkan nama tag.
+- Kelas: Menargetkan elemen berdasarkan atribut kelas.
+- ID: Menargetkan elemen berdasarkan atribut ID.
+
+#### **2. Properti**
+- Tekstual: Mengatur font, warna, ukuran teks, dll.
+- Latar Belakang: Mengatur warna latar belakang, gambar latar belakang, dll.
+
+### **Layout dan Posisi**
+##### **1. Box Model**
+Memahami margin, border, padding, dan konten.
+
+#### **2. Position**
+Mengatur posisi elemen (static, relative, absolute, fixed).
+
+#### **3. Flexbox**
+Menggunakan Flexbox untuk layout fleksibel.
+
+#### **4. Grid** 
+Menggunakan Grid untuk layout grid.
+
