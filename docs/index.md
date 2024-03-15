@@ -9,6 +9,7 @@ dibuat oleh [Ahmad Zaki Akmal](https://github.com/ahmadzaki2975)
 ## **Daftar Modul**
 
 - ### [Modul 1](./modul1.html)
+- ### [Modul 2](./modul2.html)
 
 ## **Link Rekaman**
 
