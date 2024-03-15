@@ -42,39 +42,77 @@ Menyimpan CSS di file terpisah dengan ekstensi .css dan menghubungkannya ke HTML
 - Kelas: Menargetkan elemen berdasarkan atribut kelas.
 - ID: Menargetkan elemen berdasarkan atribut ID.
 
+[CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+
 #### **2. Properti**
 - Tekstual: Mengatur font, warna, ukuran teks, dll.
 - Latar Belakang: Mengatur warna latar belakang, gambar latar belakang, dll.
 
 ### **Layout dan Posisi**
 #### **1. Box Model**
-Memahami margin, border, padding, dan konten.
+- [CSS Margins](https://www.w3schools.com/css/css_margin.asp)
+- [CSS Paddings](https://www.w3schools.com/css/css_padding.asp)
+- [CSS Borders](https://www.w3schools.com/css/css_border.asp)
+
 
 #### **2. Position**
 Mengatur posisi elemen (static, relative, absolute, fixed).
 
-#### **3. Flexbox**
-Menggunakan Flexbox untuk layout fleksibel.
+[CSS Positions](https://www.w3schools.com/css/css_positioning.asp)
+
+#### **3. Flex**
+Menggunakan Flex untuk layouting.
+
+[CSS Flex](https://www.w3schools.com/css/css3_flexbox.asp)
 
 #### **4. Grid** 
-Menggunakan Grid untuk layout grid.
+Menggunakan Grid untuk layouting.
+
+[CSS Grid](https://www.w3schools.com/css/css_grid.asp)
 
 ### **Responsive Design**
 #### **1. Media Queries**
-Menggunakan media queries untuk desain responsif.
+Menggunakan media queries untuk desain yang responsif.
+
+[CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
 #### **2. Viewport dan Unit Relatif**
 Mengatur viewport dan menggunakan unit relatif seperti %, vw, vh.
 
 ### **Styling Lanjutan**
-#### **1. Transisi dan Animasi**
-Membuat transisi dan animasi dengan CSS.
-
-#### **2. Transformasi**
+#### **1. Transformasi**
 Menggunakan transformasi CSS seperti rotate, scale, translate, dll.
 
-#### **3. Pseudo-kelas dan Pseudo-elemen**
-Menggunakan pseudo-kelas dan pseudo-elemen untuk styling spesifik.
+#### **2. Transisi dan Animasi**
+Membuat transisi dan animasi dengan CSS.
 
-#### **4. Variabel CSS**
+#### **3. Variabel CSS**
 Menggunakan variabel CSS untuk menyimpan nilai yang dapat digunakan kembali.
+
+[CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
+
+### TailwindCSS
+TailwindCSS / Tailwind adalah salah satu framework CSS yang sangat populer di kalangan developer *front-end* karena fleksibilitasnya yang tinggi dan kemampuannya mempercepat *development*. Extension Tailwind juga tersedia di VS Code untuk membantu penggunaannya.
+
+Tailwind bekerja dengan cara membuatkan banyak class CSS yang memberikan properti tertentu. Artinya kita tidak perlu mendefinisikan setiap class dan propertinya, cukup kita tambahkan class yang diperlukan ke HTML kita.
+
+[Tailwind Play CDN](https://tailwindcss.com/docs/installation/play-cdn)
+
+```
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+</body>
+</html>
+```
+
+### **Hands-on**
+[Figma Design](https://www.figma.com/file/hkJayXOWUj9zltzHgqBajg/User-Profile---Business-Card-(Community)?type=design&node-id=0%3A1&mode=design&t=6kBN5aIvg6swJOCL-1)
