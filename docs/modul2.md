@@ -59,3 +59,9 @@ Menggunakan Flexbox untuk layout fleksibel.
 #### **4. Grid** 
 Menggunakan Grid untuk layout grid.
 
+### **Responsive Design**
+#### **1. Media Queries**
+Menggunakan media queries untuk desain responsif.
+
+#### **2. Viewport dan Unit Relatif**
+Mengatur viewport dan menggunakan unit relatif seperti %, vw, vh.
