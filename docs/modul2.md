@@ -65,3 +65,16 @@ Menggunakan media queries untuk desain responsif.
 
 #### **2. Viewport dan Unit Relatif**
 Mengatur viewport dan menggunakan unit relatif seperti %, vw, vh.
+
+### **Styling Lanjutan**
+##### **1. Transisi dan Animasi**
+Membuat transisi dan animasi dengan CSS.
+
+#### **2. Transformasi**
+Menggunakan transformasi CSS seperti rotate, scale, translate, dll.
+
+#### **3. Pseudo-kelas dan Pseudo-elemen**
+Menggunakan pseudo-kelas dan pseudo-elemen untuk styling spesifik.
+
+#### **4. Variabel CSS**
+Menggunakan variabel CSS untuk menyimpan nilai yang dapat digunakan kembali.
