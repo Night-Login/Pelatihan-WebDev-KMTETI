@@ -47,7 +47,7 @@ Menyimpan CSS di file terpisah dengan ekstensi .css dan menghubungkannya ke HTML
 - Latar Belakang: Mengatur warna latar belakang, gambar latar belakang, dll.
 
 ### **Layout dan Posisi**
-##### **1. Box Model**
+#### **1. Box Model**
 Memahami margin, border, padding, dan konten.
 
 #### **2. Position**
@@ -67,7 +67,7 @@ Menggunakan media queries untuk desain responsif.
 Mengatur viewport dan menggunakan unit relatif seperti %, vw, vh.
 
 ### **Styling Lanjutan**
-##### **1. Transisi dan Animasi**
+#### **1. Transisi dan Animasi**
 Membuat transisi dan animasi dengan CSS.
 
 #### **2. Transformasi**
