@@ -12,6 +12,9 @@ description: Modul 2 Pelatihan WebDev 2 KMTETI 2023/2024.
 ### **Apa itu CSS?**
 CSS adalah singkatan dari Cascading Style Sheets. Ini adalah bahasa style sheet yang digunakan untuk mendeskripsikan tampilan dan format dari dokumen yang ditulis dalam bahasa markup, seperti HTML. CSS digunakan untuk mengontrol gaya, layout, dan penampilan elemen pada halaman web.
 
+<img width="400" src="https://github.com/Night-Login/Pelatihan-WebDev-KMTETI/assets/87590846/ad1a19c4-81c3-439c-850d-1df1a8445876" />
+
+
 ### **Menyisipkan CSS ke dalam HTML**
 Ada 3 cara untuk menyisipkan *styling* ke elemen HTML, 2 di antaranya sudah dibahas di [modul sebelumnya](./modul1.html).
 
@@ -93,6 +96,8 @@ Menggunakan variabel CSS untuk menyimpan nilai yang dapat digunakan kembali.
 
 ### **TailwindCSS**
 TailwindCSS / Tailwind adalah salah satu framework CSS yang sangat populer di kalangan developer *front-end* karena fleksibilitasnya yang tinggi dan kemampuannya mempercepat *development*. Extension Tailwind juga tersedia di VS Code untuk membantu penggunaannya.
+
+<img width="400" src="https://github.com/Night-Login/Pelatihan-WebDev-KMTETI/assets/87590846/a5aec9e2-0833-4838-9ade-69ddad1b773a" />
 
 Tailwind bekerja dengan cara membuatkan banyak class CSS yang memberikan properti tertentu. Artinya kita tidak perlu mendefinisikan setiap class dan propertinya, cukup kita tambahkan class yang diperlukan ke HTML kita.
 
