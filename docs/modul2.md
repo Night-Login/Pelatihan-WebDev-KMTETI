@@ -7,7 +7,7 @@ description: Modul 2 Pelatihan WebDev 2 KMTETI 2023/2024.
 # **CSS and TailwindCSS**
 [← Kembali](./)
 
-<!-- [Versi Google Docs](https://docs.google.com/document/d/1wa5O2ZyeqsU9dBnCOjotH5rwXc1apYnosM_5K1dEgCc/edit?usp=sharing) -->
+[Versi Google Docs](https://docs.google.com/document/d/1pYqaDKJUzoRkqn0GgxNgbZCm4ipUVSYD58YhC3VpTxs/edit?usp=sharing)
 
 ### **Apa itu CSS?**
 CSS adalah singkatan dari Cascading Style Sheets. Ini adalah bahasa style sheet yang digunakan untuk mendeskripsikan tampilan dan format dari dokumen yang ditulis dalam bahasa markup, seperti HTML. CSS digunakan untuk mengontrol gaya, layout, dan penampilan elemen pada halaman web.
@@ -61,12 +61,12 @@ Mengatur posisi elemen (static, relative, absolute, fixed).
 [CSS Positions](https://www.w3schools.com/css/css_positioning.asp)
 
 #### **3. Flex**
-Menggunakan Flex untuk layouting.
+Flex adalah salah satu metode layout yang sering digunakan untuk layouting. Flex memberikan kemampuan pada developer untuk mengatur flow dari dokumen supaya lebih mudah ketika membuat layout yang responsif.
 
 [CSS Flex](https://www.w3schools.com/css/css3_flexbox.asp)
 
 #### **4. Grid** 
-Menggunakan Grid untuk layouting.
+Grid adalah salah satu metode layout untuk mengatur flow dokumen dalam format mirip dengan tabel.
 
 [CSS Grid](https://www.w3schools.com/css/css_grid.asp)
 
@@ -77,11 +77,11 @@ Menggunakan media queries untuk desain yang responsif.
 [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
 #### **2. Viewport dan Unit Relatif**
-Mengatur viewport dan menggunakan unit relatif seperti %, vw, vh.
+CSS menyediakan unit satuan yang bisa digunakan relatif terhadap value lainnya. Contohnya %, vw, vh, rem, em dll.
 
 ### **Styling Lanjutan**
 #### **1. Transformasi**
-Menggunakan transformasi CSS seperti rotate, scale, translate, dll.
+Melakukan transformasi matematis seperti scale, translate, skew, rotate, dll.
 
 #### **2. Transisi dan Animasi**
 Membuat transisi dan animasi dengan CSS.
@@ -91,7 +91,7 @@ Menggunakan variabel CSS untuk menyimpan nilai yang dapat digunakan kembali.
 
 [CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 
-### TailwindCSS
+### **TailwindCSS**
 TailwindCSS / Tailwind adalah salah satu framework CSS yang sangat populer di kalangan developer *front-end* karena fleksibilitasnya yang tinggi dan kemampuannya mempercepat *development*. Extension Tailwind juga tersedia di VS Code untuk membantu penggunaannya.
 
 Tailwind bekerja dengan cara membuatkan banyak class CSS yang memberikan properti tertentu. Artinya kita tidak perlu mendefinisikan setiap class dan propertinya, cukup kita tambahkan class yang diperlukan ke HTML kita.
