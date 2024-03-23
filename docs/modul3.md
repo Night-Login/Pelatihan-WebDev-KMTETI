@@ -57,12 +57,12 @@ let umur = 21;          // Nilai bisa diubah
 
 ### **5. Perbandingan**
 
-| Operator | Description | Example | Result     |
+| Operator | Description | Example | Result |
 |-|-|-|-|
 | `==` | Sama dengan | `5 == "5"` | `true` |
-| `===` | Sama dengan (_strict_) | `5 === "5"` | `false`    |
+| `===` | Sama dengan (_strict_) | `5 === "5"` | `false` |
 | `!=` | Tidak sama dengan | `5 != "5"` | `false` |
-| `!==` | Strictly not equal to (value and type)| `5 !== "5"` | `true` |
+| `!==` | Tidak sama dengan (_strict_) | `5 !== "5"` | `true` |
 | `>` | Lebih dari | `5 > 3` | `true` |
 | `<` | Kurang dari | `5 < 3` | `false` |
 | `>=` | Greater than or equal to | `5 >= 5` | `true` |
@@ -134,7 +134,9 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
 
 <img src="images/image.png" width="400" />
 
-**`push()`** - Menambahkan entri baru ke dalam array.
+**`push()`** 
+
+Menambahkan entri baru ke dalam array.
 ```
   const fruits = ["🍎", "🍇", "🍌"];
   fruits.push("🍊");
@@ -142,7 +144,9 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
   console.log(fruits);
 ```
 
-**`pop()`** - Menghapus entri terakhir di array.
+**`pop()`** 
+
+Menghapus entri terakhir di array.
 ```
   const fruits = ["🍎", "🍇", "🍌"];
   fruits.pop();
@@ -150,7 +154,9 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
   console.log(fruits);
 ```
 
-**`forEach()`** - Meng-_apply_ suatu fungsi ke setiap nilai dalam array.
+**`forEach()`** 
+
+_Apply_ suatu fungsi ke setiap nilai dalam array.
 ```
   const fruits = ["apple", "grape", "banana"];
 
@@ -165,7 +171,8 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
   })
 ```
 
-**`map()`** - Meng-_apply_ suatu fungsi ke setiap nilai dalam array dan **mengembalikan array baru**.
+**`map()`**
+_Apply_ suatu fungsi ke setiap nilai dalam array dan **mengembalikan array baru**.
 ```
   const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   
@@ -176,7 +183,9 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
   console.log(numbersSquared);
 ```
 
-**`filter()`** - **Membuat array baru** yang sesuai dengan kondisi yang diberikan.
+**`filter()`**  
+
+**Membuat array baru** yang sesuai dengan kondisi yang diberikan.
 ```
   const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
