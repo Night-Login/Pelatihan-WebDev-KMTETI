@@ -42,6 +42,7 @@ let umur = 21;          // Nilai bisa diubah
  ⚠️ JS adalah bahasa yang bersifat _dynamic typing_, sehingga variabelnya bisa berganti tipe data. Usahakan untuk mempertahankan tipe data suatu variabel untuk tetap sama.
 
 ### **4. Operasi Dasar**
+
 | Operator | Arti |
 | -------- | ---- |
 | + | Penambahan / Addition |
