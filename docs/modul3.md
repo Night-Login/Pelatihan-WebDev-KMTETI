@@ -169,5 +169,18 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
 ```
   const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   
-  const numbersSquared
+  const numbersSquared = numbers.map((number) => {
+    return numbers ** 2;
+  })
 
+  console.log(numbersSquared);
+```
+
+**`filter()`** - **Membuat array baru** yang sesuai dengan kondisi yang diberikan.
+```
+  const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+  const oddNumbers = numbers.filter((number) => {
+    return number % 2 == 1
+  })
+```
