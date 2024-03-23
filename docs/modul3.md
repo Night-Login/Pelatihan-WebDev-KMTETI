@@ -184,3 +184,33 @@ Array juga memiliki banyak method yang bisa kita gunakan. Di sini hanya dicontoh
     return number % 2 == 1
   })
 ```
+
+### **Object**
+Object adalah suatu nilai yang digunakan untuk menggambarkan suatu entitas, dan disimpan dalam format _key-value_. Object biasa disebut _dictionary_ dalam bahasa Python.
+```
+  const mahasiswa = {
+    nama      : "Ahmad Zaki",
+    angkatan  : 2021,
+    prodi     : "TIF",
+  }
+```
+Untuk mengakses properti dari suatu objek, bisa digunakan cara berikut.
+```
+  console.log(mahasiswa.nama)
+
+  // atau
+
+  console.log(mahasiswa["nama"])
+```
+
+## Hands-On
+Diberikan string "Tugas1_480179_Ahmad Zaki Akmal_ALIN.pdf"
+Pecahlah string tersebut dan masukkan dalam object dengan format berikut.
+```
+{
+  namaTugas : ___,
+  namaMhs   : ___,
+  niu       : ___,
+  matkul    : ___,
+}
+```
