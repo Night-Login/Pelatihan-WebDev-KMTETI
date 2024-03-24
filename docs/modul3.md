@@ -66,8 +66,8 @@ let umur = 21;          // Nilai bisa diubah
 | `!==` | Tidak sama dengan (_strict_) | `5 !== "5"` | `true` |
 | `>` | Lebih dari | `5 > 3` | `true` |
 | `<` | Kurang dari | `5 < 3` | `false` |
-| `>=` | Greater than or equal to | `5 >= 5` | `true` |
-| `<=` | Less than or equal to | `5 <= 5` | `true` |
+| `>=` | Lebih dari sama dengan | `5 >= 5` | `true` |
+| `<=` | Kurang dari sama dengan | `5 <= 5` | `true` |
 
 
 ## **Other Important Concepts**
