@@ -11,6 +11,7 @@ dibuat oleh [Ahmad Zaki Akmal](https://github.com/ahmadzaki2975)
 - ### [Modul 1](./modul1.html)
 - ### [Modul 2](./modul2.html)
 - ### [Modul 3](./modul3.html)
+- ### [Modul 4](./modul4.html)
 
 ## **Link Rekaman**
 
