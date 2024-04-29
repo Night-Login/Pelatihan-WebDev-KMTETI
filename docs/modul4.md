@@ -56,3 +56,21 @@ const greet2 = (name: string): string => {
   return "Hello, " + name;
 } 
 ```
+
+## **Interface**
+Interface digunakan untuk mendefinisikan metode dan properti yang dimiliki oleh suatu objek.
+```
+interface User {
+  name: string;
+  age: number;
+}
+
+const user1: User = {
+  name: "Zaki",
+  age: 22
+}
+
+function greet(user: User) {
+  console.log("Hello, " + user.name)
+}
+```
