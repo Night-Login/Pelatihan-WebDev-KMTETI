@@ -48,7 +48,11 @@ const age: number = 20
 
 **2. Functions**
 ```
-function greet(name: string): string {
+function greet1(name: string): string {
   return "Hello, " + name;
 }
+
+const greet2 = (name: string): string => {
+  return "Hello, " + name;
+} 
 ```
