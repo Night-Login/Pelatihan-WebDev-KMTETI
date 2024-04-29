@@ -16,3 +16,7 @@ Pastikan sudah terinstal Node.js dan NPM di device, jika belum, bisa download di
 
 Jika sudah, buka Command Prompt (CMD), kemudian ketikkan command `npm install -g typescript`, setelah itu, jalankan command `tsc` untuk memastikan intalasi sudah berjalan.
 
+## **Compiling**
+_Compiling_ adalah nama proses yang mengubah file TypeScript (.ts) menjadi JavaScript (.js).
+
+Cara melakukan _compile_ adalah dengan command `tsc <nama-file>`.
