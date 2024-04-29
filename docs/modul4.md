@@ -37,3 +37,18 @@ TypeScript menambahkan fitur _type annotations_ pada JavaScript supaya kita bisa
 **6. Enum** → Memberikan nama pada sebuah urutan angka. Eg: angka 0 sampai 6 diberikan nama hari `enum Days {Sun, Mon, Tue, Wed, ...}`
 
 ## **Type Annotations**
+Cara mendefinisikan tipe data adalah sebagai berikut
+
+**1. Variables**
+
+```
+const string: name = "Zaki"
+const age: number = 20
+```
+
+**2. Functions**
+```
+function greet(name: string): string {
+  return "Hello, " + name;
+}
+```
