@@ -20,3 +20,20 @@ Jika sudah, buka Command Prompt (CMD), kemudian ketikkan command `npm install -g
 _Compiling_ adalah nama proses yang mengubah file TypeScript (.ts) menjadi JavaScript (.js).
 
 Cara melakukan _compile_ adalah dengan command `tsc <nama-file>`.
+
+## **Basic Syntax**
+TypeScript menambahkan fitur _type annotations_ pada JavaScript supaya kita bisa mendeklarasikan tipe data secara eksplisit pada variabel dan fungsi.
+
+**1. Number** → Tipe data angka baik itu bilangan bulat (_integer_) maupun bilangan desimal (_float_).
+
+**2. String** → Tipe data teks (sederetan karakter)
+
+**3. Boolean** → Tipe data yang berisi `true` atau `false`.
+
+**4. Array** → Tipe data yang berbentuk deretan nilai, bisa dideklarasikan dengan 2 cara:  `type[]` atau `Array<type>`.
+
+**5. Tuple** → Tipe data mirip dengan array, tetapi **banyaknya tetap**, **tipenya diketahui**, dan **tipenya tidak perlu sama**. Eg: `let tuple: [string, number]`
+
+**6. Enum** → Memberikan nama pada sebuah urutan angka. Eg: angka 0 sampai 6 diberikan nama hari `enum Days {Sun, Mon, Tue, Wed, ...}`
+
+## **Type Annotations**
